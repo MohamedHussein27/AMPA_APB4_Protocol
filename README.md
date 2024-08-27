@@ -10,7 +10,7 @@ The AMBA APB4 Protocol project implements the Advanced Peripheral Bus (APB) prot
 - **Simulation/**: Includes the testbench files that simulate the external system, providing commands to the APB master and slave.
 - **docs/**: Contains the project documentation, including references and the AMBA APB Protocol Specification.
 - **Scripts/**: Provides script files, including a DO file for QuestaSim and a TCL file for Vivado, to enhance simulation and synthesis speed.
-- **doc_3th_section/**: Contains synthesis reports, such as timing summaries and resource utilization.
+- **doc_4th_section/**: Contains synthesis reports, such as timing summaries and resource utilization.
 
 ## Protocol Architecture
 
