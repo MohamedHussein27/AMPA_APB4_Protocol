@@ -68,7 +68,7 @@ The project documentation is divided into four main parts:
 
 To enhance the efficiency of the simulation and synthesis processes, this repository includes both a **do file** and a **tcl file**. These scripts allow for rapid execution of commands in QuestaSim and Vivado, speeding up the development and verification processes.
 
-## How to Use
+## Getting Started
 
 1. Clone the repository: git clone https://github.com/MohamedHussein27/AMPA_APB4_Protocol.git
 2. Open the project in your preferred Verilog simulator (e.g., ModelSim or QuestaSim).
